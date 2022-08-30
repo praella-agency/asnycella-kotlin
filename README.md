@@ -1,4 +1,4 @@
-# asnycella-kotlin
+# ASYNC-ELLA-kotlin
 A library to write easier and more manageable asynchronous code for multi-platform usage.
 
 ```java
